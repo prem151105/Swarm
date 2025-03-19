@@ -1,8 +1,0 @@
-agents:
-  - Coordinator
-  - Researcher
-  - Planner
-agent_roles:
-  Researcher: research
-  Planner: planning
-  Coordinator: coordination
